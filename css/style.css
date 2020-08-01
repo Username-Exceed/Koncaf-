@@ -2118,7 +2118,7 @@ margin-top: 3em;
 }
 
 @media (min-width: 993px) and (max-width:1920px) {
-    .prueba-texto{
+    .caro{
         display: none;
     }
 }
