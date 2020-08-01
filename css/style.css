@@ -1972,7 +1972,7 @@ a.move-top span {
         }
 }
 
-@media (min-width: 500px) and (max-width:993px) {
+@media (min-width: 300px) and (max-width:993px) {
     .banner-bottom-py-5{
         display: none;
     }
@@ -1993,6 +1993,130 @@ a.move-top span {
     background: #fff;
     margin: 30px auto;
 
-}
+
 }
 
+
+@media screen and (min-width: 348px) and (max-width:500px) {
+    .input-group2 select,
+.input-group2 input[type="text"],
+.input-group2 input[type="email"] {
+    display: block;
+    font-size: 14px;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+    padding: 15px 20px;
+    width: 80%;
+    color: rgb(0, 0, 0);
+    letter-spacing: 2px;
+    box-sizing: border-box;
+    outline: none;
+    background: #fff;
+    margin: 30px auto;
+    
+}
+
+.input-group2 select{
+    min-height: 49px;
+}
+
+.textarea2 {
+    font-size: 14px;
+    resize: none;
+    text-transform: capitalize;
+    padding: 15px 20px;
+    letter-spacing: 1px;
+    box-sizing: border-box;
+    outline: none;
+    color: #666;
+    background: transparent;
+    width: 80%;
+    margin: auto;
+    background-color: white;
+}
+
+
+.testimonials_grid-2 .texto-1 {
+    font-size: 42px;
+  }
+
+  .testimonials_grid-2 .texto-2 {
+      font-size: 42px;
+    }
+}
+.test-content{
+    margin-top: 66px;
+}
+
+.testimonials_grid-2 p {
+    height: 58px;
+
+}
+.booking{
+margin-top: 3em;
+}
+
+
+}
+
+@media (min-width: 993px) and (max-width:1900px) {
+    .prueba-texto{
+        display: none;
+    }
+}
+
+@media (min-width: 200px) and (max-width:993px) {
+    .oscuro{
+        background-color: rgba(0, 0, 0, 0.5);
+        width: 100%;
+        min-height: 400;
+    }
+    
+    .fondo{
+    color: #FFF;
+    }
+    
+    
+    
+    .prueba-texto{
+        
+        color:#fff;
+        text-align: center;
+    }
+    
+    .fondo h2{
+    text-align: center;
+    font-size: 67px;
+    margin-top: 50px;
+    }
+
+    .texto-prueba1{
+        text-align: center important;
+    }
+    
+    .texto-prueba2{
+        text-align: center important;
+    }
+}
+
+@media screen and (min-width: 500px) and (max-width:995px) {
+    .input-group2 select{
+        min-height: 49px;
+    }
+    
+    .textarea2 {
+        font-size: 14px;
+        resize: none;
+        text-transform: capitalize;
+        padding: 15px 20px;
+        letter-spacing: 1px;
+        box-sizing: border-box;
+        outline: none;
+        color: #666;
+        background: transparent;
+        width: 80%;
+        margin: auto;
+        background-color: white;
+    }
+
+}

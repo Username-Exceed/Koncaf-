@@ -603,6 +603,7 @@ pre code {
   flex-wrap: wrap;
   margin-right: -15px;
   margin-left: -15px;
+  font-size: 27px;
 }
 
 .no-gutters {
@@ -2013,9 +2014,9 @@ pre code {
   opacity: 1;
 }
 
-select.form-control:not([size]):not([multiple]) {
+/*select.form-control:not([size]):not([multiple]) {
   height: calc(2.25rem + 2px);
-}
+}*/
 
 select.form-control:focus::-ms-value {
   color: #495057;
@@ -9109,7 +9110,7 @@ a.text-dark:hover, a.text-dark:focus {
     max-width: 673px;
   } 
 }
-
+        }
 
 /*Personalizacion propia*/
 /*Personalizacion propia*/
