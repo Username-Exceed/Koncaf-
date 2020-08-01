@@ -2059,11 +2059,7 @@ margin-top: 3em;
 
 }
 
-@media (min-width: 993px) and (max-width:1920px) {
-    .prueba-texto{
-        display: none;
-    }
-}
+
 
 @media (min-width: 200px) and (max-width:993px) {
     .oscuro{
